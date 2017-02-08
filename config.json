@@ -1,0 +1,11 @@
+{
+    "port": 1338,
+    "mongoose": {
+        "uri": "mongodb://localhost/rssTest"
+    },
+    "default": {
+        "api": {
+            "version" : "v1.0"
+        }
+    }
+}
